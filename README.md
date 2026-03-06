@@ -1,10 +1,3 @@
-Problem: Problème - 06/03/2026
-
-Solution:
-Voici une proposition de descriptif structuré pour votre fichier `README.md` sur GitHub, rédigé de manière professionnelle et technique.
-
----
-
 # IP Scanner Tool
 
 **IP Scanner Tool** est une application légère développée en <keyword>Python</keyword> dotée d'une interface graphique (<keyword>GUI</keyword>) permettant de scanner rapidement un réseau local. Elle identifie les machines actives, récupère leurs noms d'hôte (<keyword>hostname</keyword>) et leurs adresses <keyword>MAC</keyword>.
